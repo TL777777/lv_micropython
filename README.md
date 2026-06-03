@@ -1,4 +1,4 @@
-# Micropython + LVGL
+# Micropython + LVGL 
 
 **Micropython bindings to LVGL for Embedded devices, Unix and JavaScript**
 
